@@ -48,18 +48,13 @@
   - **1-on-1 chats** are strictly prioritized.
   - **Group chats are shielded and blocked from auto-replies** unless the user explicitly names the group, completely preventing disastrous accidental replies to college professors or official groups!
 
-### 4. 🔑 Secret Developer Passcode Authentication (`25102005`)
-- **Creator Recognition**: Entering the secret code **`25102005`** into the username field authenticates **Harshit Raahi** as the Creator & Developer!
-  - For **Harshit Raahi**: Myra greets him with supreme loyalty as **"Boss"** or **"Harshit Sir"**, recognizing him as her architect.
-  - For **Other Users**: Myra calls them strictly by their entered name (or polite "Aap") and **NEVER** calls other users "Boss".
-  - If anyone asks *"Who is your developer?"* or *"Kisne banaya?"*: Myra proudly introduces **Harshit Raahi** and his engineering background.
 
-### 5. 📱 Autonomous Human Phone Operator
+### 4. 📱 Autonomous Human Phone Operator
 - **Live Screen Perception (`observe_screen`)**: Reads active UI elements, view hierarchies, visible text, and screen contents via `SoltiniAccessibilityService`.
 - **System-Wide Action Execution**: Touch injection $(x, y)$, text typing, Enter submission, scrolling, app launching, screen locking/waking, screenshot capture, and status bar control.
 - **Hands-Free Telephony & SMS**: In-call voice screening, contact calling, and SMS dispatching.
 
-### 6. 🏠 ESP32 Smart Home IoT Automation
+### 5. 🏠 ESP32 Smart Home IoT Automation
 - Native **MQTT relay and device controller** built into the core engine.
 - Voice commands like *"Ceiling light on karo"*, *"Fan band karo"*, or *"Kitchen relay toggle karo"* instantly control physical ESP32 relays and smart plugs.
 
